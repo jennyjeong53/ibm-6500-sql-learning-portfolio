@@ -4,5 +4,8 @@
   },
   "introduction-to-sql.qmd": {
     "introduction-to-sql.html": "9f26e047"
+  },
+  "introduction-to-bigquery.qmd": {
+    "introduction-to-bigquery.html": "c6406102"
   }
 }
